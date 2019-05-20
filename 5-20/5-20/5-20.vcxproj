@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{4AF3E1D9-03C2-4CE7-BBAC-887A13DD218F}</ProjectGuid>
+    <ProjectGuid>{53B58979-C1E9-497D-B615-CD789FC94872}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My520</RootNamespace>
   </PropertyGroup>
